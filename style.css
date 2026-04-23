@@ -1,0 +1,12 @@
+ body {
+  background: #000000;
+  align-items: center;
+}
+
+
+#title{
+  color: red;
+  position: absolute;
+  top: 10px;
+  left: 110px;
+}
